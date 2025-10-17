@@ -7,7 +7,7 @@
 ![image alt](https://github.com/brianmateli/Task-one/blob/main/Sales%20table.png)
 ## Common payment methods
 ![image alt](https://github.com/brianmateli/Task-one/blob/696416d8cad0abae7ec7e4e91a903ee39d52bf13/Common%20sales%20payment%20methods%20in%20descending%20order.png)
-
-![image alt]
+## Missing values
+![image alt](https://github.com/brianmateli/Task-one/blob/main/Missing%20values.png)
 ![image alt]
 ![image alt]
