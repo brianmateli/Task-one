@@ -11,4 +11,5 @@
 ![image alt](https://github.com/brianmateli/Task-one/blob/main/Missing%20values.png)
 ## Suppliers with at least one product
 ![image alt](https://github.com/brianmateli/Task-one/blob/main/Suppliers%20with%20atleast%20one%20product.png)
-![image alt]
+## Suppliers with at no products
+![image alt](https://github.com/brianmateli/Task-one/blob/main/Suppliers%20with%20no%20products.png)
